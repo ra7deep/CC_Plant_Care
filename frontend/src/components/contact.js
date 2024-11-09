@@ -91,9 +91,9 @@ function Contact() {
           <Box display="flex" alignItems="center" marginBottom={2}>
             <LocationOnIcon fontSize="large" color="primary" />
             <Typography variant="body1" marginLeft={2}>
-              Bloombuddy, Kasarvadavli
+              Bloombuddy
               <br />
-              Thane, India
+              Ranchi, India
             </Typography>
           </Box>
         </Container>
